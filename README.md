@@ -1,3 +1,7 @@
+# 🛬 Hazrat Ali
+
+# 🚀 Programmer || Software Engineering
+
 # 🧮 Calculator Project 🧮
 
 🎉 Welcome to the **Calculator** project! 🎉 This versatile and user-friendly tool helps you perform basic arithmetic calculations right in your web browser. Built with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, this calculator is designed to be simple yet powerful.
