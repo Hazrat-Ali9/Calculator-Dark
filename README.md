@@ -26,6 +26,4 @@ The **Calculator** is a web application that allows you to perform addition ➕,
 
 Here’s a preview of the Calculator in action:
 
-![CALCULATOR]()
-
 Enjoy using the Calculator! 🎉 Feel free to share your feedback or contribute to the project by making a pull request. Happy calculating! 🌟
